@@ -1,22 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Writings</title>
-    <link>/</link>
-    <description>Recent content on Writings</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 05:23:18 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo How-tos</title>
-      <link>/hugo-how-tos/</link>
-      <pubDate>Tue, 19 Jan 2021 05:23:18 -0500</pubDate>
-      
-      <guid>/hugo-how-tos/</guid>
-      <description>How do you install Hugo? The easiest way is to use the Chocolatey package manager if you are on Windows. If you haven&amp;rsquo;t already install Chocolatey. To check if it is installed already use the following command:
-choco versionIf you do not see an error than it is installed. Otherwise navigate to the PM&amp;rsquo;s website and follow the instructions.
-To install Hugo using Chocolatey use the following command:</description>
-    </item>
-    
-  </channel>
-</rss>
