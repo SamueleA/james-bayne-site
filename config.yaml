@@ -6,7 +6,7 @@ theme: cupper-hugo-theme
 relativeUrls: true
 # googleAnalytics: UA-123456789-1
 # disqusShortname: yourdiscussshortname
-# enableGitInfo: false
+enableGitInfo: false
 
 taxonomies:
   tag: tags
